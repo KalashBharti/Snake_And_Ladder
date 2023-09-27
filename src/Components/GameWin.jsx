@@ -1,5 +1,5 @@
-import {React,useCallback,useEffect,useRef} from 'react'
-import winVideo from "../video/GigaChadWining.mp4"
+import {React} from 'react'
+
 export default function GameWin({name}) {
     const refresh = () =>{
         window.location.reload(true);

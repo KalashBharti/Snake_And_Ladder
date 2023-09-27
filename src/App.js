@@ -1,5 +1,5 @@
 
-import React, { useEffect, useState, useCallback, useRef } from 'react';
+import React, { useState,useRef } from 'react';
 import './App.css';
 import GameWin from './Components/GameWin'
 import Game from './Components/Game'
