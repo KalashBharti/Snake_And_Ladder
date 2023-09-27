@@ -1,10 +1,9 @@
 {
   "files": {
     "main.css": "/Snake_And_Ladder/static/css/main.4df3be6b.css",
-    "main.js": "/Snake_And_Ladder/static/js/main.8bd2a01c.js",
+    "main.js": "/Snake_And_Ladder/static/js/main.98e2cd1e.js",
     "static/js/787.6a541d2d.chunk.js": "/Snake_And_Ladder/static/js/787.6a541d2d.chunk.js",
     "static/media/background.jpg": "/Snake_And_Ladder/static/media/background.ada6ec32d0af5f5f24f0.jpg",
-    "static/media/GigaChadWining.mp4": "/Snake_And_Ladder/static/media/GigaChadWining.16011890161b1f9ba00c.mp4",
     "static/media/gigachad.gif": "/Snake_And_Ladder/static/media/gigachad.422c82bddfbe07db2105.gif",
     "static/media/win.mp3": "/Snake_And_Ladder/static/media/win.fd4b084918f0fc5c7aa6.mp3",
     "static/media/board.jpg": "/Snake_And_Ladder/static/media/board.73bd6fd4e690688e6a2c.jpg",
@@ -15,11 +14,11 @@
     "static/media/move.mp3": "/Snake_And_Ladder/static/media/move.c1605600eff86d666507.mp3",
     "index.html": "/Snake_And_Ladder/index.html",
     "main.4df3be6b.css.map": "/Snake_And_Ladder/static/css/main.4df3be6b.css.map",
-    "main.8bd2a01c.js.map": "/Snake_And_Ladder/static/js/main.8bd2a01c.js.map",
+    "main.98e2cd1e.js.map": "/Snake_And_Ladder/static/js/main.98e2cd1e.js.map",
     "787.6a541d2d.chunk.js.map": "/Snake_And_Ladder/static/js/787.6a541d2d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4df3be6b.css",
-    "static/js/main.8bd2a01c.js"
+    "static/js/main.98e2cd1e.js"
   ]
 }
